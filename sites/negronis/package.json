@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "negronis",
+  "version": "0.0.1",
+  "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.15.28",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  },
+  "main": "gatsby-config.js",
+  "license": "MIT"
+}

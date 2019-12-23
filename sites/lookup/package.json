@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "lookup",
+  "version": "0.0.1",
+  "main": "gatsby-config.js",
+  "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop"
+  }
+}

@@ -5458,10 +5458,10 @@ homedir-polyfill@^1.0.1:
   dependencies:
     parse-passwd "^1.0.0"
 
-honkify@*:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/honkify/-/honkify-0.0.2.tgz#addafafeb8e7e4ab4e369915dcfb86ae826a7f05"
-  integrity sha512-PNfMPkyd9DZDvlPnFAMqOcM/IjDBXMsCxvRv/K14dyheH9fZOTJw2TqP8X+qs6nGqNlhtVgJGq/Nivw0B2V4Jw==
+honkify@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/honkify/-/honkify-0.2.0.tgz#83aee217ed6d88906bdd7e1b60fb1186290eab19"
+  integrity sha512-xR0PgzI0zqrOFJGdQHhNFDuxYgZnhyPAjsX6NcQNU2BatYO4+OCvjmYWYbVELw8rJXdtbnCy6APxe+WeXjKYcA==
 
 hosted-git-info@^2.1.4:
   version "2.8.4"
@@ -8795,9 +8795,9 @@ querystring@0.2.0, querystring@^0.2.0:
   integrity sha1-sgmEkgO7Jd+CDadW50cAWHhSFiA=
 
 querystringify@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.1.1.tgz#60e5a5fd64a7f8bfa4d2ab2ed6fdf4c85bad154e"
-  integrity sha512-w7fLxIRCRT7U8Qu53jQnJyPkYZIaR4n5151KMfcJlO/A9397Wxb1amJvROTK6TOnp7PfoAmg/qXiNHI+08jRfA==
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.2.0.tgz#3345941b4153cb9d082d8eee4cda2016a9aef7f6"
+  integrity sha512-FIqgj2EUvTa7R50u0rGsyTftzjYmv/a3hO345bZNrqabNqjtgiDMgmo4mkUjd+nzU5oF3dClKqFIPUKybUyqoQ==
 
 randombytes@^2.0.0, randombytes@^2.0.1, randombytes@^2.0.5:
   version "2.1.0"
@@ -10945,9 +10945,9 @@ url-parse-lax@^3.0.0:
     prepend-http "^2.0.0"
 
 url-parse@^1.1.8, url-parse@^1.4.3:
-  version "1.4.7"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.7.tgz#a8a83535e8c00a316e403a5db4ac1b9b853ae278"
-  integrity sha512-d3uaVyzDB9tQoSXFvuSUNFibTd9zxd2bkVrDRvF5TmvWWQwqE4lgYJ5m+x1DbecWkw+LK4RNl2CU1hHuOKPVlg==
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.1.tgz#d5fa9890af8a5e1f274a2c98376510f6425f6e3b"
+  integrity sha512-HOfCOUJt7iSYzEx/UqgtwKRMC6EU91NFhsCHMv9oM03VJcVo2Qrp8T8kI9D7amFf1cu+/3CEhgb3rF9zL7k85Q==
   dependencies:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
